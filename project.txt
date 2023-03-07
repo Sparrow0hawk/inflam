@@ -1,4 +1,8 @@
 Some initial data analysis to identify how inflammation changes over time.
 
+Some extra details:
+- One
+- Two
+
 Project leader: Luke Skywalker
 
